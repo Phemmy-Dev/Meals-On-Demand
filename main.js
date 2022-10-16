@@ -24,3 +24,4 @@ var navLinks = document.getElementById("nav-items");
 
     const hiddenElements = document.querySelectorAll('.hidden');
     hiddenElements.forEach((el) => observer.observe(el));
+
